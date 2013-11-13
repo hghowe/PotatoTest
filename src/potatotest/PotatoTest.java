@@ -9,7 +9,7 @@ package potatotest;
  * @author kadmin
  */
 public class PotatoTest {
-    private int numPotatoes;
+    private static int numPotatoes;
 
     /**
      * @param args the command line arguments
@@ -17,6 +17,6 @@ public class PotatoTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Here's a cool update.");
-        int numPotatoes = 0;
+        numPotatoes = 0;
     }
 }
