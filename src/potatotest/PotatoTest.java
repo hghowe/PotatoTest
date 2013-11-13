@@ -10,6 +10,7 @@ package potatotest;
  */
 public class PotatoTest {
     private static int numPotatoes;
+    private static int x;
 
     /**
      * @param args the command line arguments
