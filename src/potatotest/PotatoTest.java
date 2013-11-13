@@ -17,5 +17,6 @@ public class PotatoTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Here's a cool update.");
+        int numPotatoes = 0;
     }
 }
