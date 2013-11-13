@@ -9,6 +9,7 @@ package potatotest;
  * @author kadmin
  */
 public class PotatoTest {
+    private int numPotatoes;
 
     /**
      * @param args the command line arguments
